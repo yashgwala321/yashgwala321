@@ -1,6 +1,6 @@
  
 # Hi, I’m Yash 👋
-I’m a BCA 2nd year (3rd semester) student and an aspiring Full Stack Developer.
+I’m a BCA 2nd year (4th semester) student and an aspiring Full Stack Developer.
 
 I’m currently building strong fundamentals in web development and learning how real-world applications are designed and developed. I enjoy practicing daily, improving my logic, and slowly moving towards advanced frontend and backend technologies.
 
